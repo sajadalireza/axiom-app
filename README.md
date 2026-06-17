@@ -7,7 +7,7 @@
 
 ---
 
-**VERSION:** 1.0.0 Beta &nbsp;|&nbsp; **ANDROID:** 8.0+ &nbsp;|&nbsp; **ACCESS:** Restricted
+**VERSION:** 1.1.0 Beta &nbsp;|&nbsp; **ANDROID:** 8.0+ &nbsp;|&nbsp; **ACCESS:** Restricted
 
 ---
 
