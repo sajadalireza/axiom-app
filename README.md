@@ -18,7 +18,7 @@
 
 ## ⬇️ دانلود
 
-**[→ دریافت AXIOM v1.0.0 Beta (APK)](https://github.com/sajadalireza/axiom-app/releases/download/v1.1.0-beta/axiom-debug.apk)**
+**[→ دریافت AXIOM v1.1.0 Beta (APK)](https://github.com/sajadalireza/axiom-app/releases/download/v1.1.0-beta/axiom-debug.apk)**
 
 > ⚠️ دسترسی محدود — برای ورود به اپ نیاز به **کد فعال‌سازی** داری.
 
